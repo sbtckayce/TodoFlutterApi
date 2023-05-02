@@ -18,3 +18,20 @@
 
 ## DeleteTask
 ![image](https://user-images.githubusercontent.com/91471354/235627689-05133cd6-73bf-433c-9a1b-39b8854f5685.png)
+
+
+# Api in postman
+## AddTask
+![image](https://user-images.githubusercontent.com/91471354/235628293-983023e2-a438-4225-8ef2-0428a26cd64c.png)
+
+## GetAllTask
+![image](https://user-images.githubusercontent.com/91471354/235628500-6f70c5f9-3fd9-4423-aecc-ef41e10004a0.png)
+## GetTask
+![image](https://user-images.githubusercontent.com/91471354/235628538-0827f66d-fbf6-401f-866b-6e4d9d9121d6.png)
+## UpdateTask
+![image](https://user-images.githubusercontent.com/91471354/235628626-3df2f037-6d45-440a-8714-87c4b026d0ad.png)
+
+## DeleteTask
+![image](https://user-images.githubusercontent.com/91471354/235628582-5884b5c7-090f-48ea-9299-cce43b017cde.png)
+
+
